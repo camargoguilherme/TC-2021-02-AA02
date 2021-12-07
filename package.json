@@ -8,7 +8,8 @@
   "scripts": {
     "start:server": "node lib/server.js",
     "dev:server": "nodemon lib/server.js",
-    "start:client1": "nodemon lib/client1.js"
+    "start:client1": "nodemon lib/client1.js",
+    "start:client2": "nodemon lib/client2.js"
   },
   "dependencies": {
     "axios": "^0.24.0",
