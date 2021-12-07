@@ -1,0 +1,16 @@
+{
+  "name": "TC-2021-02-AA02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/camargoguilherme/TC-2021-02-AA02.git",
+  "author": "Guilherme Camargo <guilhermecamargo57@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-mailer": "^0.1.1",
+    "node-persist": "^2.1.0",
+    "uuidv4": "^6.2.12"
+  }
+}
