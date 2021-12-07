@@ -7,12 +7,14 @@
   "license": "MIT",
   "scripts": {
     "start:server": "node lib/server.js",
-    "dev:server": "nodemon lib/server.js"
+    "dev:server": "nodemon lib/server.js",
+    "start:client1": "nodemon lib/client1.js"
   },
   "dependencies": {
     "axios": "^0.24.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "faker": "^5.5.3",
     "node-mailer": "^0.1.1",
     "node-persist": "^2.1.0",
     "uuidv4": "^6.2.12"
